@@ -1,6 +1,6 @@
 Telegram Report Tool
 
-A modern Telegram reporting utility built with Python and Telethon. This project demonstrates asynchronous programming, clean terminal interfaces, and Telegram API integration through a modular and easy-to-understand codebase.
+A modern Telegram reporting utility built with Python and Telethon. This project demonstrates asynchronous programming, terminal application development, and Telegram API integration through a clean and modular codebase.
 
 ✨ Features
 
@@ -11,6 +11,8 @@ A modern Telegram reporting utility built with Python and Telethon. This project
 - 🔄 Batch reporting support
 - 🛡️ Robust error handling
 - 📁 Clean and modular project structure
+- 🔒 Encrypted distribution to help protect the originality of the implementation
+- ✅ Contains no malware, backdoors, or hidden functionality—only the application itself
 
 📦 Requirements
 
@@ -20,20 +22,30 @@ A modern Telegram reporting utility built with Python and Telethon. This project
 
 🚀 Installation
 
-git clone https://github.com/your-username/your-repository.git
-cd your-repository
+1. Download this repository as a ZIP from GitHub.
+2. Extract the downloaded archive.
+3. Open a terminal inside the extracted folder.
+4. Install the required dependencies:
+
 pip install -r requirements.txt
+
+5. Configure your Telegram API credentials.
+6. Run the application and follow the on-screen interface.
 
 ▶️ Usage
 
-1. Configure your Telegram API credentials.
-2. Install the required dependencies.
-3. Run the application.
-4. Follow the on-screen interface.
+1. Enter your Telegram API credentials.
+2. Configure the desired reporting options.
+3. Launch the application.
+4. Monitor progress through the built-in terminal interface.
+
+🔒 Encrypted Distribution
+
+To help preserve the originality of this project, the source code is distributed in encrypted form. This does not affect normal usage of the application. The encrypted package contains no malware, backdoors, spyware, or hidden functionality—only the application itself.
 
 ⚠️ Disclaimer
 
-This project is provided for educational purposes and to demonstrate Telegram API integration, asynchronous programming, and terminal application development. Users are responsible for complying with Telegram's Terms of Service and all applicable laws. The author does not encourage or support misuse of this software.
+This project is intended for educational purposes, automation research, and learning Telegram API integration. Users are solely responsible for ensuring their use complies with Telegram's Terms of Service and all applicable laws. The author does not encourage or support misuse of this software.
 
 📄 License
 
